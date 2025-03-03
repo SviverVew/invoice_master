@@ -1,4 +1,4 @@
-# 🛠️ Golang RESTful API
+# 🛠️ Golang RESTful API Invoices Project By Phạm Lê Kha
 
 API này được xây dựng bằng Golang, sử dụng MySQL/MongoDB cho CRUD và các tính năng quản lý công việc.
 
